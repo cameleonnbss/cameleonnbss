@@ -43,23 +43,6 @@
 
 </div>
 
----
-
-## 🎵 now playing
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0a0a0a&border_color=ef4444)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
-
-> replace `YOUR_SPOTIFY_USER_ID` with your Spotify username and deploy [novatorem](https://github.com/novatorem/novatorem) to get live music
-
----
-
-## 🐍 contributions
-
-<div align="center">
-
-![snake](https://github.com/cameleonnbss/cameleonnbss/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
