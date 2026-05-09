@@ -33,13 +33,19 @@
 
 ---
 
+---
+
 ## 📊 stats
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cameleonnbss&show_icons=true&theme=github_dark&title_color=ef4444&icon_color=ef4444&border_color=222&bg_color=0a0a0a&hide_border=false)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cameleonnbss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cameleonnbss&layout=compact&theme=github_dark&title_color=ef4444&border_color=222&bg_color=0a0a0a)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cameleonnbss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
+
+<br><br>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=cameleonnbss&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=f85149&point=ffffff" />
 
 </div>
 
