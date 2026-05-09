@@ -33,19 +33,21 @@
 
 ---
 
----
-
 ## 📊 stats
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cameleonnbss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cameleonnbss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cameleonnbss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=10" />
 
 <br><br>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=cameleonnbss&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=f85149&point=ffffff" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,bash,linux,kali,git,github,vscode,androidstudio,html,css,javascript" />
 
 </div>
 
