@@ -41,10 +41,9 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cameleonnbss&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ef4444&text_color=ffffff&langs_count=6&cache_seconds=1800)](https://github.com/cameleonnbss)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cameleonnbss&layout=compact&langs_count=8&hide_border=true&theme=tokyonight)](https://github.com/cameleonnbss)
 
 </div>
-
 ---
 
 ## Stats
