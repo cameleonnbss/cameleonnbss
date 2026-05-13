@@ -37,15 +37,37 @@
 
 ---
 
-## Top Languages
+## languages
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cameleonnbss&layout=compact&langs_count=8&hide_border=true&theme=tokyonight)](https://github.com/cameleonnbss)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cameleonnbss&layout=compact&langs_count=8&hide_border=true&theme=tokyonight)
+
+</div>
+
+main focus:
+- Rust (actually learning for network tools)
+- Python (main language)
+- Shell / Batch (scripting)
+- C (low-level basics)
+- JavaScript / HTML (basic web understanding)
 
 </div>
 ---
 
+## tools
+
+<div align="center">
+
+![Rust](https://img.shields.io/badge/Rust-0a0a0a?style=for-the-badge&logo=rust&logoColor=ef4444)
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=ef4444)
+![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=ef4444)
+![Kali](https://img.shields.io/badge/Kali-0a0a0a?style=for-the-badge&logo=kalilinux&logoColor=ef4444)
+![VSCode](https://img.shields.io/badge/VSCode-0a0a0a?style=for-the-badge&logo=visualstudiocode&logoColor=ef4444)
+
+</div>
+
+---
 ## Stats
 
 <div align="center">
