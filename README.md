@@ -72,7 +72,6 @@ main focus:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cameleonnbss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=ffffff" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=cameleonnbss&theme=tokyonight&hide_border=true&background=0d1117&ring=ef4444&fire=ef4444&currStreakLabel=ef4444" />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=cameleonnbss&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ef4444&line=ef4444&point=ffffff" />
