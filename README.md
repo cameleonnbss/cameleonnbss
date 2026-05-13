@@ -41,7 +41,6 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cameleonnbss&layout=compact&langs_count=8&hide_border=true&theme=tokyonight)
 
 </div>
 
@@ -53,9 +52,6 @@ main focus:
 - JavaScript / HTML (basic web understanding)
 
 </div>
----
-
-## tools
 
 <div align="center">
 
@@ -82,7 +78,7 @@ main focus:
 
 <div align="center">
 
-`🦕` &nbsp; *no crashes, no errors, just vibes* &nbsp; `🌵`
+`` &nbsp; *no crashes, no errors, very surprising* &nbsp; ``
 
 ![views](https://komarev.com/ghpvc/?username=cameleonnbss&color=ef4444&style=flat-square&label=profile+views)
 
