@@ -57,12 +57,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sooty-eta-88.vercel.app/api?username=cameleonnbss&show_icons=true&title_color=ef4444&icon_color=ef4444&border_color=1a1a1a&bg_color=0d1117&text_color=c9d1d9" width="48%"/>
-  <img src="https://github-readme-stats-sooty-eta-88.vercel.app/api/top-langs/?username=cameleonnbss&layout=compact&title_color=ef4444&border_color=1a1a1a&bg_color=0d1117&text_color=c9d1d9" width="40%"/>
+  <img src="https://github-readme-stats-sooty-eta-88.vercel.app/api?username=cameleonnbss&show_icons=true&title_color=ef4444&icon_color=ef4444&border_color=1a1a1a&bg_color=0d1117&text_color=c9d1d9&hide=issues&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-stats-sooty-eta-88.vercel.app/api/top-langs/?username=cameleonnbss&layout=compact&title_color=ef4444&border_color=1a1a1a&bg_color=0d1117&text_color=c9d1d9&langs_count=6" width="40%"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=cameleonnbss&theme=dark&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&border=1a1a1a&background=0d1117"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cameleonnbss&theme=onedark&no-bg=true&no-frame=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
 </p>
 
 ---
