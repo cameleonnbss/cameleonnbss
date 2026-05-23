@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/camzzz">
+  <a href="https://github.com/cameleonnbss">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=EF4444&center=true&vCenter=true&width=600&lines=hey+%F0%9F%91%8B+i'm+camzzz;cybersecurity+beginner+%F0%9F%94%93;building+tools+%7C+CTF+%7C+pentesting;learning+every+day." alt="Typing SVG"/>
   </a>
 </p>
@@ -21,6 +21,7 @@
 ### 🧠 About Me
 
 ```
+
 → Young beginner in cybersecurity
 → Windows + WSL · Kali Linux · Xubuntu · Android (Termux)
 → Learning Python, Bash & Rust
@@ -56,12 +57,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cameleonnbss&show_icons=true&theme=dark&title_color=ef4444&icon_color=ef4444&border_color=1a1a1a&bg_color=0a0a0a" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cameleonnbss&layout=compact&theme=dark&title_color=ef4444&border_color=1a1a1a&bg_color=0a0a0a" width="40%"/>
+  <img src="https://github-readme-stats-sooty-eta-88.vercel.app/api?username=cameleonnbss&show_icons=true&title_color=ef4444&icon_color=ef4444&border_color=1a1a1a&bg_color=0d1117&text_color=c9d1d9" width="48%"/>
+  <img src="https://github-readme-stats-sooty-eta-88.vercel.app/api/top-langs/?username=cameleonnbss&layout=compact&title_color=ef4444&border_color=1a1a1a&bg_color=0d1117&text_color=c9d1d9" width="40%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=cameleonnbss&theme=dark&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&border=1a1a1a&background=0a0a0a"/>
+  <img src="https://streak-stats.demolab.com?user=cameleonnbss&theme=dark&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&border=1a1a1a&background=0d1117"/>
 </p>
 
 ---
@@ -69,4 +70,3 @@
 <p align="center">
   <sub>⭐ Star a repo if something interests you — it motivates more than you think.</sub>
 </p>
-```
