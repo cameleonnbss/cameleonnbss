@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="REMPLACE_PAR_TON_LIEN_GIPHY_CHROME_DINO.gif" width="280"/>
+  <img src="[REMPLACE_PAR_TON_LIEN_GIPHY_CHROME_DINO.gi](https://blog.google/products-and-platforms/products/chrome/chrome-dino/)" width="280"/>
 </div>
 
 <p align="center">
