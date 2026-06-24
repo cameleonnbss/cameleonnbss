@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 </div>
@@ -21,7 +22,6 @@
 ### 🧠 About Me
 
 ```
-
 → Young beginner in cybersecurity
 → Windows + WSL · Kali Linux · Xubuntu · Android (Termux)
 → Learning Python, Bash & Rust
@@ -57,8 +57,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sooty-eta-88.vercel.app/api?username=cameleonnbss&show_icons=true&title_color=ef4444&icon_color=ef4444&border_color=1a1a1a&bg_color=0d1117&text_color=c9d1d9&hide=issues&include_all_commits=true" width="48%"/>
-  <img src="https://github-readme-stats-sooty-eta-88.vercel.app/api/top-langs/?username=cameleonnbss&layout=compact&title_color=ef4444&border_color=1a1a1a&bg_color=0d1117&text_color=c9d1d9&langs_count=6" width="40%"/>
+  <img src="https://github-readme-stats-sooty-eta-88.vercel.app/api?username=cameleonnbss&show_icons=true&title_color=ef4444&icon_color=ef4444&border_color=1a1a1a&bg_color=0d1117&text_color=c9d1d9&hide=issues&include_all_commits=true&cache_seconds=1800" width="48%"/>
+  <img src="https://github-readme-stats-sooty-eta-88.vercel.app/api/top-langs/?username=cameleonnbss&layout=compact&title_color=ef4444&border_color=1a1a1a&bg_color=0d1117&text_color=c9d1d9&langs_count=6&cache_seconds=1800" width="40%"/>
 </p>
 
 <p align="center">
@@ -72,5 +72,6 @@
 ---
 
 <p align="center">
-  <sub>⭐ Star a repo if something interests you — it motivates more than you think.</sub>
+  <sub>⭐ Star a repo if something interests you </sub>
 </p>
+```
