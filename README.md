@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="(https://blog.google/products-and-platforms/products/chrome/chrome-dino/)" width="280"/>
+  <img src="([https://blog.google/products-and-platforms/products/chrome/chrome-dino/](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRqOGVhdTVpa3hsMGFzYWIxcDEwZjhtMXZsdHVubGowOWVsMWt6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KeQgaiv19rCEdVFnW8/giphy.gif))" width="280"/>
 </div>
 
 <p align="center">
