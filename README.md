@@ -1,6 +1,5 @@
-
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+  <img src="REMPLACE_PAR_TON_LIEN_GIPHY_CHROME_DINO.gif" width="280"/>
 </div>
 
 <p align="center">
@@ -9,7 +8,7 @@
   </a>
 </p>
 
----
+<hr/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-ef4444?style=flat-square&labelColor=0a0a0a"/>
@@ -17,12 +16,12 @@
   <img src="https://img.shields.io/badge/OS-Windows%20%7C%20Kali%20%7C%20Android-ef4444?style=flat-square&labelColor=0a0a0a"/>
 </p>
 
----
+<hr/>
 
 ### 🧠 About Me
 
-```
-→ Young beginner in cybersecurity
+```text
+→ Beginner in cybersecurity, learning step by step
 → Windows + WSL · Kali Linux · Xubuntu · Android (Termux)
 → Learning Python, Bash & Rust
 → Interested in pentesting, CTF & building tools from scratch
@@ -30,7 +29,7 @@
 
 > ⚠️ Everything here is for educational purposes — **use responsibly**
 
----
+<hr/>
 
 ### 🛠️ Languages & Tools
 
@@ -52,13 +51,13 @@
   <img src="https://img.shields.io/badge/Wireshark-0a0a0a?style=for-the-badge&logo=wireshark&logoColor=ef4444"/>
 </p>
 
----
+<hr/>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="[https://github-readme-stats-sooty-eta-88.vercel.app/api?username=cameleonnbss&show_icons=true&title_color=ef4444&icon_color=ef4444&border_color=1a1a1a&bg_color=0d1117&text_color=c9d1d9&hide=issues&include_all_commits=true&cache_seconds=1800](https://github-readme-stats-sooty-eta-88.vercel.app/api/top-langs/?username=cameleonnbss&layout=compact&title_color=ef4444&border_color=1a1a1a&bg_color=0d1117&text_color=c9d1d9&langs_count=20&cache_seconds=1800)" width="48%"/>
-  <img src="https://github-readme-stats-sooty-eta-88.vercel.app/api/top-langs/?username=cameleonnbss&layout=compact&title_color=ef4444&border_color=1a1a1a&bg_color=0d1117&text_color=c9d1d9&langs_count=6&cache_seconds=1800" width="40%"/>
+  <img src="https://github-readme-stats-sooty-eta-88.vercel.app/api?username=cameleonnbss&show_icons=true&title_color=ef4444&icon_color=ef4444&border_color=1a1a1a&bg_color=0d1117&text_color=c9d1d9&hide=issues&include_all_commits=true&cache_seconds=1800" width="48%"/>
+  <img src="https://github-readme-stats-sooty-eta-88.vercel.app/api/top-langs/?username=cameleonnbss&layout=compact&title_color=ef4444&border_color=1a1a1a&bg_color=0d1117&text_color=c9d1d9&langs_count=20&cache_seconds=1800" width="40%"/>
 </p>
 
 <p align="center">
@@ -69,9 +68,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=cameleonnbss&theme=onedark&no-bg=true&no-frame=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
 </p>
 
----
+<hr/>
 
 <p align="center">
-  <sub>⭐ Star a repo if something interests you </sub>
+  <sub>⭐ Star a repo if something interests you</sub>
 </p>
-```
