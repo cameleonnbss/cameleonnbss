@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-</p>
-
-I'm a cybersecurity beginner who loves working on AI — and with AI. Most things I build sit somewhere between those two: small tools, local LLM experiments, and stuff that breaks in my own lab before it works anywhere else. I grind CTFs, read way too many docs, and learn by doing, which mostly means fixing what I just broke.
-
-I code mostly in **Python**, **Bash** and **JavaScript**, and I'm slowly working my way through **Rust**, **C** and networking. I bounce between Windows + WSL, Xubuntu, and Termux on my phone — VSCode everywhere. Expect rough edges; that's kind of the point.
+I code mostly in **Python**, **Bash** and **JavaScript**
 
 > Everything in this profile is for **educational purposes only**. Use responsibly.
 
