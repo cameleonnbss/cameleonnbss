@@ -8,6 +8,7 @@ on:
     branches:
       - main
     paths:
+      - "cards/generate.py"
       - ".github/workflows/refresh-cards.yml"
 
 permissions:
@@ -22,24 +23,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Fetch fresh cards from the mirror
-        run: |
-          mkdir -p cards
-          base="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app"
-          curl -fsSL --retry 3 --max-time 30 \
-            "$base/api?username=cameleonnbss&show_icons=true&title_color=ef4444&icon_color=ef4444&bg_color=0d1117&text_color=c9d1d9&hide=issues&hide_border=true&include_all_commits=true" \
-            -o cards/stats.svg
-          curl -fsSL --retry 3 --max-time 30 \
-            "$base/api/top-langs/?username=cameleonnbss&layout=compact&title_color=ef4444&bg_color=0d1117&text_color=c9d1d9&hide_border=true&langs_count=10" \
-            -o cards/top-langs.svg
+      - name: Generate cards from the GitHub API
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python cards/generate.py
 
-      - name: Validate (fail if a card is an error page)
+      - name: Validate (fail on anything that is not a clean SVG)
         run: |
           for f in cards/stats.svg cards/top-langs.svg; do
-            grep -q "<svg" "$f" || { echo "::error::$f is not a valid SVG"; exit 1; }
-            if grep -qiE "something went wrong|rate limit|unavailable" "$f"; then
-              echo "::error::$f looks like an error card"; exit 1
-            fi
+            head -c 100 "$f" | grep -q "<svg" || { echo "::error::$f does not start with <svg>"; exit 1; }
+            grep -qi "DOCTYPE\|<html\|went wrong\|rate limit" "$f" && { echo "::error::$f contains error-page content"; exit 1; }
           done
 
       - name: Commit refreshed cards
