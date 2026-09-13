@@ -36,14 +36,7 @@ the security/AI repos here are for learning on **my own** machines — use them 
 - 🛡️ **security basics** — CTFs, web exploitation, understanding how things break so i can fix them
 - 🏗️ **building from scratch** — re-implementing tools instead of just using them, to see how they work
 - 🧪 **home labs** — WSL, Xubuntu, Termux; breaking and fixing my own environment
-
-## 📌 things i made
-- **[WormGPT](https://github.com/cameleonnbss/WormGPT)** — AI chatbot CLI over OpenRouter, 12+ free models, bilingual EN/FR, chat history · 🐍 ★4
-- **[AndroidMirror](https://github.com/cameleonnbss/AndroidMirror)** — desktop GUI for scrcpy 4.1: mirror, control & record Android, portable Windows exe · 🟦
-- **[DiskScope-CLI](https://github.com/cameleonnbss/DiskScope-CLI)** — Windows storage analyzer: parallel scans, game launcher inventory, duplicate finder · 🐍
-- **[spotify-music-downloader](https://github.com/cameleonnbss/spotify-music-downloader)** — playlists & albums to MP3 with exact metadata · 🎵
-- **[autosecaudit](https://github.com/cameleonnbss/autosecaudit)** — automated web & infra security scanner · 🛡️
-- **[Portable-USB-AI-Studio](https://github.com/cameleonnbss/Portable-USB-AI-Studio)** — a full local AI studio that lives on a USB stick · 🔌
+/cameleonnbss/Portable-USB-AI-Studio)** — a full local AI studio that lives on a USB stick · 🔌
 
 ## 🔭 currently
 - learning CTF basics one failed challenge at a time
