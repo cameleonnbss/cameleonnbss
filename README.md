@@ -53,8 +53,8 @@ the security/AI repos here are for learning on **my own** machines — use them 
 
 ## 📈 stats
 <p align="center">
-  <img src="./cards/stats.svg" width="48%" alt="GitHub stats"/>
-  <img src="./cards/top-langs.svg" width="40%" alt="Top languages"/>
+  <img src="./cards/stats.svg?v=2" width="48%" alt="GitHub stats"/>
+  <img src="./cards/top-langs.svg?v=2" width="40%" alt="Top languages"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=cameleonnbss&theme=dark&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&hide_border=true&background=0d1117" alt="GitHub streak"/>
