@@ -32,8 +32,11 @@ jobs:
         run: |
           for f in cards/stats.svg cards/top-langs.svg; do
             head -c 100 "$f" | grep -q "<svg" || { echo "::error::$f does not start with <svg>"; exit 1; }
-            grep -qi "DOCTYPE\|<html\|went wrong\|rate limit" "$f" && { echo "::error::$f contains error-page content"; exit 1; }
+            if grep -qiE "DOCTYPE|<html|went wrong|rate limit" "$f"; then
+              echo "::error::$f contains error-page content"; exit 1
+            fi
           done
+          echo "both cards are clean SVGs"
 
       - name: Commit refreshed cards
         run: |
