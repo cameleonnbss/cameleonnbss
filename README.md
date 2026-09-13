@@ -53,8 +53,8 @@ the security/AI repos here are for learning on **my own** machines — use them 
 
 ## 📈 stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cameleonnbss&show_icons=true&title_color=ef4444&icon_color=ef4444&bg_color=0d1117&text_color=c9d1d9&hide=issues&hide_border=true&include_all_commits=true" width="48%" alt="GitHub stats"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cameleonnbss&layout=compact&title_color=ef4444&bg_color=0d1117&text_color=c9d1d9&hide_border=true&langs_count=10" width="40%" alt="Top languages"/>
+  <img src="./cards/stats.svg" width="48%" alt="GitHub stats"/>
+  <img src="./cards/top-langs.svg" width="40%" alt="Top languages"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=cameleonnbss&theme=dark&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&hide_border=true&background=0d1117" alt="GitHub streak"/>

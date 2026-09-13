@@ -1,0 +1,55 @@
+name: Refresh stats cards
+
+on:
+  schedule:
+    - cron: "0 2 * * *" # once a day, at 2am UTC
+  workflow_dispatch: # lets you re-run it manually
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/refresh-cards.yml"
+
+permissions:
+  contents: write # needed to commit the refreshed cards
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch fresh cards from the mirror
+        run: |
+          mkdir -p cards
+          base="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app"
+          curl -fsSL --retry 3 --max-time 30 \
+            "$base/api?username=cameleonnbss&show_icons=true&title_color=ef4444&icon_color=ef4444&bg_color=0d1117&text_color=c9d1d9&hide=issues&hide_border=true&include_all_commits=true" \
+            -o cards/stats.svg
+          curl -fsSL --retry 3 --max-time 30 \
+            "$base/api/top-langs/?username=cameleonnbss&layout=compact&title_color=ef4444&bg_color=0d1117&text_color=c9d1d9&hide_border=true&langs_count=10" \
+            -o cards/top-langs.svg
+
+      - name: Validate (fail if a card is an error page)
+        run: |
+          for f in cards/stats.svg cards/top-langs.svg; do
+            grep -q "<svg" "$f" || { echo "::error::$f is not a valid SVG"; exit 1; }
+            if grep -qiE "something went wrong|rate limit|unavailable" "$f"; then
+              echo "::error::$f looks like an error card"; exit 1
+            fi
+          done
+
+      - name: Commit refreshed cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cards/
+          if git diff --cached --quiet; then
+            echo "No changes — cards are up to date"
+          else
+            git commit -m "chore: refresh stats cards [skip ci]"
+            git push
+          fi
