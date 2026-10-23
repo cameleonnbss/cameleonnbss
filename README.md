@@ -5,9 +5,6 @@
   <img src="https://github-readme-stats-sooty-eta-88.vercel.app/api/top-langs/?username=cameleonnbss&layout=compact&title_color=ef4444&bg_color=0d1117&text_color=c9d1d9&hide_border=true&langs_count=10&size_weight=0.4&count_weight=0.6&hide=Batchfile,PowerShell" width="40%" alt="Top languages"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-sooty-eta-88.vercel.app/api/pin/?username=cameleonnbss&repo=windclone&title_color=ef4444&icon_color=ef4444&bg_color=0d1117&text_color=c9d1d9&hide_border=true" width="48%" alt="windclone - an OS built from scratch"/>
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=cameleonnbss&theme=dark&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&hide_border=true&background=0d1117" alt="GitHub streak"/>
 </p>
 
